@@ -18,7 +18,7 @@ Ce projet a pour objectif de développer une application qui permet de récupér
 
 ## Installation
 1. Ouvrir l'invite de commande de votre choix.
-2. Télécharger le répertoire en utilisant la commande : `git clone`
+2. Télécharger le répertoire en utilisant la commande : `git clone https://github.com/Narodk1/Kepler-data.git`
 3. Changer l'emplacement du répertoire : `cd kepler-vers-une-nouvelle-terre`
 4. Installez les packages requis : `pip install -r requirements.txt`
 
