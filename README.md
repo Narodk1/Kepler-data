@@ -1,16 +1,8 @@
 ## Table des matières
-- [Avancement du Projet](#avencement-de-projet)
-- [Équipe](#teams)
 - [Description du Projet](#description-du-projet)
 - [Fonctionnalités Principales](#fonctionnalités-principales)
 - [Installation](#installation)
 - [Licence](#Licence)
-
-## Avencement de Projet 
-<h3 style="font-weight: bold;">97%</h3>
-
-## Teams 
-Youssef DEKHAIL -Chef de Projet <br>
 
 ## Description du Projet
 
@@ -26,7 +18,7 @@ Ce projet a pour objectif de développer une application qui permet de récupér
 
 ## Installation
 1. Ouvrir l'invite de commande de votre choix.
-2. Télécharger le répertoire en utilisant la commande : `git clone https://gitlab.univ-lr.fr/projets-l2-2023/kepler-team/kepler-vers-une-nouvelle-terre.git`
+2. Télécharger le répertoire en utilisant la commande : `git clone`
 3. Changer l'emplacement du répertoire : `cd kepler-vers-une-nouvelle-terre`
 4. Installez les packages requis : `pip install -r requirements.txt`
 
