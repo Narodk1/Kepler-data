@@ -11,8 +11,7 @@
 
 ## Teams 
 Youssef DEKHAIL -Chef de Projet <br>
-Youssouf Sacko  -Developpeur <br>
-Elhadj Abassy Diallo - Developpeur <br>
+
 ## Description du Projet
 
 Ce projet a pour objectif de développer une application qui permet de récupérer des données à partir du site web Exoplanètes Kepler. L'application sera capable de rechercher des informations sur des exoplanètes, de stocker ces données dans une base de données, et de les afficher à l'utilisateur via une interface utilisateur conviviale.
